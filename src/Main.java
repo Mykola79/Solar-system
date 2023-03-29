@@ -11,7 +11,7 @@ public class Main {
 
         sun.heat="2";
         sun.color="red";
-        sun.temperature=234245d234;
+        sun.temperature="234245d234";
     }
 
 }
