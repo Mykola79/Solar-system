@@ -6,6 +6,12 @@ public class Main {
         solar.planets="2";
         solar.moon="2";
         solar.sun="1";
+
+        Sun sun=new Sun();
+
+        sun.heat="2";
+        sun.color="red";
+        sun.temperature="234245d234";
     }
 
 }
